@@ -1,7 +1,7 @@
 loadstring(game:HttpGet('https://github.com/tung2k12/tung2k12/new/main'))();
 
 win.AddButton('Get Key',function()
-    (setclipboard or toclipboard)('https://ads.luarmor.net/get_key?for=KNClinkvertise-NyZRHgKYOfty');
+    (setclipboard or toclipboard)('https://lootdest.org/s?TuDSU2rt');
 end);
 
 win.AddButton('Login',function(a)
@@ -9,7 +9,7 @@ win.AddButton('Login',function(a)
     
     script_key=a.Text;
     
-    loadstring(game:HttpGet("https://lootdest.org/s?TuDSU2rt"))();
+    loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/84540224acb21db4b7ffadb76a63fefd.lua"))();
 end);
 
 win.AddButton('Discord',function()
